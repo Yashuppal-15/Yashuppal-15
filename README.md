@@ -45,5 +45,19 @@ A driven and motivated individual with a passion for computer science, I am eage
 
 ---
 
+### 🏆 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashuppal-15&layout=compact&theme=radical" alt="Yash's Top Languages" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repositories:
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Yashuppal-15&limit=5&theme=radical" alt="Yash's Top Contributions" />
+</p>
+
+---
+
 ### ❤️ Fun Fact:
 I’m passionate about solving real-world problems with tech and love diving deep into blockchain security!
