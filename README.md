@@ -8,7 +8,7 @@ A driven and motivated individual with a passion for computer science, I am eage
 
 - 🔭 I’m currently working on **Blockchain & AES Encryption**
 - 🌱 I’m currently learning **React**
-- 📫 Reach me at **2k22.cse.2213230@gmail.com** or **6387578748**
+- 📫 Reach me at **2k22.cse.2213230@gmail.com** 
 
 ---
 
@@ -43,14 +43,12 @@ A driven and motivated individual with a passion for computer science, I am eage
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashuppal-15&theme=radical" alt="Yash's GitHub Streak" />
 </p>
 
----
 
 ### 🏆 Most Used Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashuppal-15&layout=compact&theme=radical" alt="Yash's Top Languages" />
 </p>
 
----
 
 ### 🔝 Top Contributed Repositories:
 <p align="center">
