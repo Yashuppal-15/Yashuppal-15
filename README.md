@@ -71,12 +71,12 @@ A driven and motivated individual with a passion for computer science, I am eage
 
 ---
 
+
 ### 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Yashuppal-15&limit=5&theme=radical" alt="Yash Uppal's GitHub Contributor Stats" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Yashuppal-15&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
-
 
 ---
 
